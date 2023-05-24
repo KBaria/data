@@ -2,7 +2,7 @@
     "books": [
         {
             "id": 1,
-            "title": "The Great Goobius",
+            "title": "The Great Gatsby",
             "description": "The story of Jay Gatsby, a young millionaire who tries to win back his lost love while navigating the excesses and decadence of the roaring twenties.",
             "isbn13": "693067420-6",
             "numPages": 377,
